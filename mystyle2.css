@@ -1,0 +1,19 @@
+body
+{
+    background-image:url("images/bg2.png");
+    background-position:center;
+    margin-left: auto;
+    margin-right: auto;
+}
+ @font-face
+        {
+            font-family:font1;
+            src:url("fonts/pacifico.ttf");
+            
+           
+        }
+.okay 
+{
+    font-family:font1;
+    text-align:center;
+}

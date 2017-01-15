@@ -1,0 +1,43 @@
+body{
+    background-image:url("images/back.jpg");
+        background-position:center;
+}
+@font-face
+{
+    font-family:font1;
+    src:url("fonts/ostrich-bold.ttf")
+}
+@font-face
+{
+    font-family:font2;
+    src:url("fonts/ostrich-reg.ttf")
+}
+@font-face
+{
+    font-family:font3;
+    src:url("fonts/ostrich-light.ttf")
+}
+.h1
+{
+    font-family:font1;
+    text-align:center;
+    font-size: 100;
+    
+}
+.contact
+{
+    font-family:font2;
+    font-size:55;
+    text-align:center
+}
+.p1{
+    font-family:font3;
+    font-size:35;
+    text-align:center;
+    }
+.logo
+{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
